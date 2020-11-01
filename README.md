@@ -1,13 +1,11 @@
 # Citi Bike Analytics
-The cleaning and compilation of Citi Bike CSV files to create Tableau visualizations for data in months 01/2020-09/2020.
+The cleaning and compilation of [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program data to create Tableau visualizations for months 01/2020-09/2020.
 
 # Data Source:
+* [New York Citi Bike Data](https://www.citibikenyc.com/system-data)
+* [Zip coode Longitude and Latitude](https://simplemaps.com/data/us-zips)
 
 # Languages Used: Python
-
-## Background
-
-Cleaning and aggregation of [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program [data](https://www.citibikenyc.com/system-data).
 
 ## Questions
 
