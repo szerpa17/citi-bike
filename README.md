@@ -1,6 +1,8 @@
 # Citi Bike Analytics
 The cleaning and compilation of [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program data to create Tableau visualizations for months 01/2020-09/2020.
 
+The visualizations may be found on [Tableau Public](https://public.tableau.com/views/NewYorkCitiBikeDataVisualization/CitiBike2020?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link).
+
 # Data Source:
 * [New York Citi Bike Data](https://www.citibikenyc.com/system-data)
 * [Zip coode Longitude and Latitude](https://simplemaps.com/data/us-zips)
@@ -24,6 +26,3 @@ The cleaning and compilation of [New York Citi Bike](https://en.wikipedia.org/wi
 * What are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
-
-## Tableau Visualizations
-
