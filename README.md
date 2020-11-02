@@ -5,7 +5,7 @@ The visualizations created using the cleaned data may be found on [Tableau Publi
 
 # Data Source:
 * [New York Citi Bike Data](https://www.citibikenyc.com/system-data)
-* [Zip coode Longitude and Latitude](https://simplemaps.com/data/us-zips)
+* [Zip Code Longitude and Latitude](https://simplemaps.com/data/us-zips)
 
 # Languages Used 
 Python
