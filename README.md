@@ -1,15 +1,16 @@
 # Citi Bike Analytics
 The cleaning and compilation of [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program data to create Tableau visualizations for months 01/2020-09/2020.
 
-The visualizations may be found on [Tableau Public](https://public.tableau.com/views/NewYorkCitiBikeDataVisualization/CitiBike2020?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link).
+The visualizations created using the cleaned data may be found on [Tableau Public](https://public.tableau.com/views/NewYorkCitiBikeDataVisualization/CitiBike2020?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link).
 
 # Data Source:
 * [New York Citi Bike Data](https://www.citibikenyc.com/system-data)
 * [Zip coode Longitude and Latitude](https://simplemaps.com/data/us-zips)
 
-# Languages Used: Python
+# Languages Used 
+Python
 
-## Questions
+# Questions Answered
 
 * How many trips have been recorded total during the chosen period?
 
